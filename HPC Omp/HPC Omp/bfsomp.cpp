@@ -55,7 +55,8 @@ int main() {
 }
 
 
-/* g++ dfsomp.cpp -lgomp -o dfsomp  */
+/* g++ dfsomp.cpp -lgomp -o dfsomp 
+    ./dfsomp                        */
 
 
 
