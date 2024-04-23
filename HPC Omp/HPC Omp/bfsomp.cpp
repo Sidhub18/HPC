@@ -54,3 +54,27 @@ int main() {
     return 0;
 }
 
+
+/* g++ dfsomp.cpp -lgomp -o dfsomp  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
